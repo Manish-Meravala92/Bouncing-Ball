@@ -1,5 +1,6 @@
 # Bouncing-Ball
 It is a Bouncing Ball Game developed in Java using AWT and Swing package.
+
 Steps:
 1) You need to open the jar file to run the program.
 2) After running the program, use the right and left arrow keys.
